@@ -2,6 +2,9 @@
 <h3 align="center">📊 An aspiring and passionate Data Enthusiast</h3>
 <img align="right" alt="My Data Analytics" width="400" src="![Data Analytics github logo](https://github.com/user-attachments/assets/ec785aa2-7779-417f-b5ae-0133baedf0b5)
 ">
+![image alt](https://github.com/Anurag1993-git/My-Repo/blob/main/Data%20Analytics%20github%20logo.png?raw=true)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1993-git&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1993-git" /> </p>
 
 - 🌱 I’m currently learning **Python, Matplotlib, NumPy and Power Bi**
